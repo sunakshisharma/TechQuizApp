@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="online.exam.app">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/online.exam.app.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
